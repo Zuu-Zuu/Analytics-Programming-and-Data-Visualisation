@@ -30,3 +30,24 @@ This project, **Data Analytics of COVID-19's Global Impact**, explores the socia
 - **Visualization:** Tableau, Matplotlib, Seaborn
 - **Orchestration:** Dagster for workflow automation
 
+How to Run the Project
+
+1️⃣ Clone the Repository
+
+git clone https://github.com/Zuu-Zuu/Analytics-Programming-and-Data-Visualisation.git
+cd Analytics-Programming-and-Data-Visualisation
+
+2️⃣ Install Dependencies
+
+pip install -r requirements.txt
+
+3️⃣ Run Data Processing
+
+python data_processing.py
+
+4️⃣ Start the Visualization Dashboard (Tableau)
+
+Open Tableau_Dashboard/TableauWorkbook.twbx
+
+5️⃣ Run ETL Pipeline (Dagster)
+
