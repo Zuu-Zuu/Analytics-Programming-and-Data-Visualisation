@@ -34,8 +34,8 @@ This project, **Data Analytics of COVID-19's Global Impact**, explores the socia
 ## How to Run the Project
 ### Clone the Repository
 ```bash
-git clone https://github.com/Zuu-Zuu/TeamTripleZ.git
-cd TeamTripleZ
+git clone https://github.com/Zuu-Zuu/Analytics-Programming-and-Data-Visualisation.git
+cd Analytics-Programming-and-Data-Visualisation
 ```
 
 ### Install Dependencies
