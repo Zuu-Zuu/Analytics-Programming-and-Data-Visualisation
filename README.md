@@ -28,31 +28,30 @@ This project, **Data Analytics of COVID-19's Global Impact**, explores the socia
 - **Data Processing:** Pandas, NumPy, ETL Pipelines
 - **Data Storage:** PostgreSQL, MongoDB
 - **Visualization:** Tableau, Matplotlib, Seaborn
-- **Machine Learning:** Time-series forecasting & correlation analysis
 - **Orchestration:** Dagster for workflow automation
 
 
-## 🚀 How to Run the Project
-### 1️⃣ Clone the Repository
+## How to Run the Project
+### Clone the Repository
 ```bash
 git clone https://github.com/Zuu-Zuu/TeamTripleZ.git
 cd TeamTripleZ
 ```
 
-### 2️⃣ Install Dependencies
+### Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run Data Processing
+### Run Data Processing
 ```bash
 python data_processing.py
 ```
 
-### 4️⃣ Start the Visualization Dashboard (Tableau)
+### Start the Visualization Dashboard (Tableau)
 - Open `Tableau_Dashboard/TableauWorkbook.twbx`
 
-### 5️⃣ Run ETL Pipeline (Dagster)
+### Run ETL Pipeline (Dagster)
 ```bash
 dagster pipeline execute -p dagster_pipeline.py
 ```
