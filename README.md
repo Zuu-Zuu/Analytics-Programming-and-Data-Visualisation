@@ -8,7 +8,6 @@ This project, **Data Analytics of COVID-19's Global Impact**, explores the socia
 - **Project Report/** → Documentation and findings from the research.
 - **Tableau_Dashboard/** → Interactive visualization dashboards.
 - **Visualization_with_Python/** → Python scripts for data processing & visualization.
-- **Work_BreakDown_Report/** → Task breakdown and project management documents.
 
 ## Datasets Used
 ### COVID-19 Data
