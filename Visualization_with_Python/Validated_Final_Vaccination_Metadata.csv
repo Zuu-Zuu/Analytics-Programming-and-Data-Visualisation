@@ -1,0 +1,1106 @@
+Country_Code,Product_Name,Vaccine_Name,Company_Name,Authorization_Date,Start_Date,End_Date,COMMENT,DATA_SOURCE
+SHN,AZD1222,AstraZeneca - AZD1222,AstraZeneca,0,0,0.0,0.0,OWID
+GRL,mRNA-1273,Moderna - mRNA-1273,Moderna,0,0,0.0,0.0,OWID
+FRO,mRNA-1273,Moderna - mRNA-1273,Moderna,0,0,0.0,0.0,OWID
+FRO,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,OWID
+JEY,mRNA-1273,Moderna - mRNA-1273,Moderna,0,0,0.0,0.0,OWID
+JEY,AZD1222,AstraZeneca - AZD1222,AstraZeneca,0,0,0.0,0.0,OWID
+JEY,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,OWID
+BIH,AZD1222,AstraZeneca - AZD1222,AstraZeneca,0,0,0.0,0.0,OWID
+BIH,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,OWID
+BIH,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,OWID
+GGY,mRNA-1273,Moderna - mRNA-1273,Moderna,0,0,0.0,0.0,OWID
+GGY,AZD1222,AstraZeneca - AZD1222,AstraZeneca,0,0,0.0,0.0,OWID
+GGY,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,OWID
+TUR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,OWID
+TUR,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,OWID
+TUR,0,Turkovac,0,0,0,0.0,0.0,OWID
+RUS,EpiVacCorona,SRCVB - EpiVacCorona,State Research Center of Virology & Biotechnology,0,0,0.0,0.0,OWID
+GIB,AZD1222,AstraZeneca - AZD1222,AstraZeneca,0,0,0.0,0.0,OWID
+GIB,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,OWID
+IMN,mRNA-1273,Moderna - mRNA-1273,Moderna,0,0,0.0,0.0,OWID
+IMN,AZD1222,AstraZeneca - AZD1222,AstraZeneca,0,0,0.0,0.0,OWID
+IMN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,OWID
+FLK,AZD1222,AstraZeneca - AZD1222,AstraZeneca,0,0,0.0,0.0,OWID
+TKM,Zifivax,Anhui ZL - Zifivax,Anhui Zhifei Longcom Biopharmaceutical,0,0,0.0,0.0,REPORTING
+CHN,Zifivax,Anhui ZL - Zifivax,Anhui Zhifei Longcom Biopharmaceutical,0,0,0.0,0.0,REPORTING
+UZB,Zifivax,Anhui ZL - Zifivax,Anhui Zhifei Longcom Biopharmaceutical,0,0,0.0,0.0,REPORTING
+CHN,LV-SMENP-DC,Shenzhen - LV-SMENP-DC,Shenzhen GenoImmune Medical Institute,0,2021-01-06,0.0,0.0,REPORTING
+DEU,VLA2001,Valneva - VLA2001,Valneva,0,0,0.0,0.0,REPORTING
+AUT,VLA2001,Valneva - VLA2001,Valneva,0,0,0.0,0.0,REPORTING
+CUB,Soberana-02,Finlay - Soberana-02,Instituto Finlay de Vacunas,0,0,0.0,0.0,REPORTING
+NIC,Soberana-02,Finlay - Soberana-02,Instituto Finlay de Vacunas,0,0,0.0,0.0,REPORTING
+IRN,Soberana-02,Finlay - Soberana-02,Instituto Finlay de Vacunas,0,0,0.0,0.0,REPORTING
+VEN,Soberana-02,Finlay - Soberana-02,Instituto Finlay de Vacunas,0,0,0.0,0.0,REPORTING
+CHN,Covidful,IMB - Covidful,Insitute of Medical Biology,2021-09-06,2021-09-06,0.0,0.0,REPORTING
+ARM,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+VNM,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-01-08,0.0,0.0,REPORTING
+YEM,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+KAZ,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-07-04,0.0,0.0,REPORTING
+TKM,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+OMN,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+PHL,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-04-05,0.0,0.0,REPORTING
+LAO,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-03-02,2021-09-02,0.0,0.0,REPORTING
+GIN,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-05-03,0.0,0.0,REPORTING
+GHA,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-09-02,2021-02-03,0.0,0.0,REPORTING
+SYR,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-03-02,2021-01-04,0.0,0.0,REPORTING
+CIV,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-01-03,0.0,0.0,REPORTING
+VEN,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-01-01,0,0.0,0.0,REPORTING
+LBN,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+LKA,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-04-03,2021-06-05,0.0,0.0,REPORTING
+PRY,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+NIC,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-02-02,2021-03-03,0.0,0.0,REPORTING
+MDV,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+JOR,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+IRN,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-09-02,0.0,0.0,REPORTING
+KWT,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+MNE,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+BGD,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+SRB,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-06-01,0.0,0.0,REPORTING
+UZB,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+MNG,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-06-02,0,0.0,0.0,REPORTING
+PAK,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-03-02,0.0,0.0,REPORTING
+SAU,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+DZA,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-10-01,0,0.0,0.0,REPORTING
+RWA,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+SDN,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+IND,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-12-04,0,0.0,0.0,REPORTING
+ALB,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+LBY,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-11-04,0.0,0.0,REPORTING
+VCT,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-01-02,0.0,0.0,REPORTING
+HND,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+ATG,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+NPL,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+MKD,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-10-03,0.0,0.0,REPORTING
+BLR,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-03-02,0.0,0.0,REPORTING
+ARG,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+SYC,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+GTM,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+QAT,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+IRQ,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-02-03,0.0,0.0,REPORTING
+BHR,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2020-03-11,2020-04-11,0.0,0.0,REPORTING
+GUY,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-02-04,2021-02-04,0.0,0.0,REPORTING
+SOM,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+ARE,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+BOL,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+MAR,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+KGZ,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+HUN,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-10-02,0.0,0.0,REPORTING
+TUN,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-11-01,0,0.0,0.0,REPORTING
+MDA,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-05-05,0.0,0.0,REPORTING
+AFG,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+SVK,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+MEX,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-09-02,0,0.0,0.0,REPORTING
+TJK,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+COG,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,2021-03-03,0,0.0,0.0,REPORTING
+EGY,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+GAB,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+ZWE,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+PSE,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,2021-02-02,0.0,0.0,REPORTING
+DJI,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+MYS,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+SMR,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+AZE,Gam-Covid-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+KAZ,QazVac,RIBSP - QazVac,Research Institute for Biological Safety Problems,0,0,0.0,0.0,REPORTING
+TKM,QazVac,RIBSP - QazVac,Research Institute for Biological Safety Problems,0,0,0.0,0.0,REPORTING
+KGZ,QazVac,RIBSP - QazVac,Research Institute for Biological Safety Problems,0,0,0.0,0.0,REPORTING
+ETH,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-03,0,0.0,0.0,REPORTING
+ARM,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+TCD,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-07-05,2021-04-06,0.0,0.0,REPORTING
+VNM,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-06,2021-10-07,0.0,0.0,REPORTING
+MDG,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-05-08,0,0.0,0.0,REPORTING
+BRB,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+LAO,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+VUT,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-02-06,0,0.0,0.0,REPORTING
+ZMB,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+SUR,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-10-07,0.0,0.0,REPORTING
+CIV,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-10-06,0,0.0,0.0,REPORTING
+VEN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-12-03,2021-08-03,0.0,0.0,REPORTING
+LBN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+PHL,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-07-06,0,0.0,0.0,REPORTING
+SLV,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-06,0,0.0,0.0,REPORTING
+GIN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-12-02,2021-05-03,0.0,0.0,REPORTING
+DOM,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+BTN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+GMB,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-10-03,0.0,0.0,REPORTING
+SYR,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-02,2021-01-04,0.0,0.0,REPORTING
+KIR,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-03-09,0.0,0.0,REPORTING
+PNG,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+MDV,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+JOR,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+IRN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-09-02,0.0,0.0,REPORTING
+NER,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+CMR,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-04,2021-12-04,0.0,0.0,REPORTING
+LKA,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-08-05,2021-05-04,0.0,0.0,REPORTING
+BFA,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+PRY,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+NIC,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2022-01-04,0.0,0.0,REPORTING
+KWT,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+BLZ,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+MNE,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-10-03,0.0,0.0,REPORTING
+BGD,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+SRB,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+MNG,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-09-02,2021-10-03,0.0,0.0,REPORTING
+PAK,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-03-02,0.0,0.0,REPORTING
+PRT,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+SAU,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+DZA,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-10-02,0,0.0,0.0,REPORTING
+RWA,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+SDN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-09-03,0.0,0.0,REPORTING
+LBY,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-11-04,0.0,0.0,REPORTING
+KEN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+ATG,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+GNB,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-02-04,0.0,0.0,REPORTING
+NPL,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-07-04,0.0,0.0,REPORTING
+SLB,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-12-03,0,0.0,0.0,REPORTING
+MKD,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+CHN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+BLR,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+ARG,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-02-03,0.0,0.0,REPORTING
+SYC,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-10-01,0.0,0.0,REPORTING
+QAT,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+SOM,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+PER,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-09-02,0.0,0.0,REPORTING
+ARE,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+NAM,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+BOL,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-02-05,0.0,0.0,REPORTING
+IRQ,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-02-03,0.0,0.0,REPORTING
+BHR,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2020-03-11,2020-04-11,0.0,0.0,REPORTING
+GNQ,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-02,2021-12-02,0.0,0.0,REPORTING
+GUY,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-02-03,0.0,0.0,REPORTING
+SGP,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+SEN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+TUN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-11-01,0,0.0,0.0,REPORTING
+BRN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-02,2021-03-04,0.0,0.0,REPORTING
+TTO,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+MDA,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+AFG,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+COM,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-01-02,2021-10-04,0.0,0.0,REPORTING
+SLE,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+MUS,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+KGZ,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+HUN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+MOZ,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+BDI,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+THA,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+COG,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-03-03,0,0.0,0.0,REPORTING
+EGY,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+GAB,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+MAR,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-06-01,0,0.0,0.0,REPORTING
+TZA,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-08-08,0,0.0,0.0,REPORTING
+MRT,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+JAM,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-12-11,0,0.0,0.0,REPORTING
+DMA,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-11-03,0.0,0.0,REPORTING
+IDN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+KHM,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-04-02,2021-10-02,0.0,0.0,REPORTING
+MMR,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),2021-12-02,2021-01-06,0.0,0.0,REPORTING
+OMN,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+ZWE,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+PSE,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-02-02,0.0,0.0,REPORTING
+DJI,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+MYS,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+YEM,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+GEO,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-05-05,0.0,0.0,REPORTING
+CPV,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+KAZ,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,2021-05-05,0.0,0.0,REPORTING
+TKM,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+LSO,BBIBP-CorV,Beijing CNBG - BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+IND,ZyCov-D,Zydus - ZyCov-D,Zydus Cadila,0,0,0.0,0.0,REPORTING
+IND,Corbevax,Biological E - Corbevax,Biological E,0,0,0.0,0.0,REPORTING
+VNM,CIGB-66,CIGB - CIGB-66,Center for Genetic Engineering and Biotechnology,0,0,0.0,0.0,REPORTING
+VEN,CIGB-66,CIGB - CIGB-66,Center for Genetic Engineering and Biotechnology,0,0,0.0,0.0,REPORTING
+NIC,CIGB-66,CIGB - CIGB-66,Center for Genetic Engineering and Biotechnology,0,0,0.0,0.0,REPORTING
+CUB,CIGB-66,CIGB - CIGB-66,Center for Genetic Engineering and Biotechnology,0,0,0.0,0.0,REPORTING
+MEX,CIGB-66,CIGB - CIGB-66,Center for Genetic Engineering and Biotechnology,0,0,0.0,0.0,REPORTING
+FRA,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-03-02,0.0,0.0,REPORTING
+FIN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+STP,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+SWE,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-02,0.0,0.0,REPORTING
+ESP,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-02,0.0,0.0,REPORTING
+ARM,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+LAO,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-04-08,0.0,0.0,REPORTING
+VUT,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-10-05,2021-02-06,0.0,0.0,REPORTING
+SYR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-03-02,2021-01-04,0.0,0.0,REPORTING
+SUR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-10-05,0,0.0,0.0,REPORTING
+LBN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+FJI,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-07-03,0.0,0.0,REPORTING
+PHL,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-07-03,0.0,0.0,REPORTING
+BRB,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-08-04,0.0,0.0,REPORTING
+SXM,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+BTN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+ISR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+COL,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+LTU,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-02,0.0,0.0,REPORTING
+MTQ,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+MDV,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+JOR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+IRN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-09-02,0.0,0.0,REPORTING
+XKX,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+SLV,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+DOM,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+LKA,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-09-07,0,0.0,0.0,REPORTING
+PRY,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+NLD,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-03-02,0.0,0.0,REPORTING
+NIC,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+KIR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-12-03,0,0.0,0.0,REPORTING
+PNG,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+BLZ,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-07-04,0.0,0.0,REPORTING
+MNE,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+BGD,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+WSM,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+SRB,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+MNG,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-10-01,0,0.0,0.0,REPORTING
+ISL,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-02,0.0,0.0,REPORTING
+TON,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+SDN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-09-03,0.0,0.0,REPORTING
+NZL,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+KWT,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+URY,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-11-02,0,0.0,0.0,REPORTING
+SVN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-02,0.0,0.0,REPORTING
+SAU,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2020-10-12,2021-06-01,0.0,0.0,REPORTING
+VGB,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-11-02,0.0,0.0,REPORTING
+CZE,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-03-02,0.0,0.0,REPORTING
+BHS,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+CYP,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-02,0.0,0.0,REPORTING
+NPL,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+SLB,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+PAK,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-03-02,0.0,0.0,REPORTING
+LCA,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+JPN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+PRT,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+ALB,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-03,0.0,0.0,REPORTING
+LBY,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-11-04,0.0,0.0,REPORTING
+VCT,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+EST,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+HND,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+ATG,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-01-02,2021-01-03,0.0,0.0,REPORTING
+BEL,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-02,0.0,0.0,REPORTING
+ARG,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+GTM,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-11-03,0,0.0,0.0,REPORTING
+MLT,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+QAT,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+BMU,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-07-05,0.0,0.0,REPORTING
+BOL,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+AUT,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-02,0.0,0.0,REPORTING
+CAN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+MKD,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+BRA,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+MCO,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+SOM,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+PER,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-12-04,0,0.0,0.0,REPORTING
+BGR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-03-02,0.0,0.0,REPORTING
+ARE,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+LVA,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+GRC,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+GUY,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+ITA,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+SGP,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+HRV,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+GLP,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+NRU,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-02-03,2021-09-04,0.0,0.0,REPORTING
+MDA,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-03-03,0.0,0.0,REPORTING
+AFG,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+CHL,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+AUS,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+IRQ,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-02-03,0.0,0.0,REPORTING
+BHR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2020-03-11,2020-04-11,0.0,0.0,REPORTING
+TUV,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+GBR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-08-02,0.0,0.0,REPORTING
+TUN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-11-01,0,0.0,0.0,REPORTING
+AIA,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2020-01-12,2021-05-02,0.0,0.0,REPORTING
+BRN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-03-04,0.0,0.0,REPORTING
+TTO,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-07-04,0.0,0.0,REPORTING
+MAR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-06-01,0,0.0,0.0,REPORTING
+ECU,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+KGZ,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+HUN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-02,0.0,0.0,REPORTING
+DNK,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+AND,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-03-03,0.0,0.0,REPORTING
+DMA,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-07-04,0.0,0.0,REPORTING
+IDN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+TJK,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+KHM,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+THA,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+EGY,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+UKR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+MEX,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-04-01,0,0.0,0.0,REPORTING
+JAM,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-03,0.0,0.0,REPORTING
+ROU,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+FSM,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+GRD,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-12-02,0,0.0,0.0,REPORTING
+KNA,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+AZE,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-05-05,0.0,0.0,REPORTING
+SVK,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+KOR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-09-02,0,0.0,0.0,REPORTING
+POL,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-06-01,0.0,0.0,REPORTING
+BEN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+TLS,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-07-04,0.0,0.0,REPORTING
+PSE,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-02-02,0.0,0.0,REPORTING
+DJI,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+MYS,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-05-05,0.0,0.0,REPORTING
+LUX,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-02,0.0,0.0,REPORTING
+NOR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-06-01,0.0,0.0,REPORTING
+TKM,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+CUW,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+PCN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+MSR,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-08-02,0.0,0.0,REPORTING
+IRL,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+OMN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+DEU,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,2021-10-02,0.0,0.0,REPORTING
+VNM,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-01-02,2021-08-03,0.0,0.0,REPORTING
+YEM,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+GEO,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+CRI,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,0,0,0.0,0.0,REPORTING
+PAN,Vaxzevria,AstraZeneca - Vaxzevria,AstraZeneca,2021-02-03,0,0.0,0.0,REPORTING
+YEM,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+OMN,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+PSE,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+DJI,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+MYS,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+MEX,Convidecia,CanSino - Convidecia,CanSino Biologicals,2021-08-02,2021-01-01,0.0,0.0,REPORTING
+JOR,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+IRN,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+SYR,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+LBN,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+QAT,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+LBY,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+PAK,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,2021-03-02,0.0,0.0,REPORTING
+SAU,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+SDN,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+KWT,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+IRQ,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+BHR,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+SOM,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+ARE,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+CHN,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+ARG,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,2021-08-09,0.0,0.0,REPORTING
+EGY,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+MAR,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+ECU,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,2021-02-08,0.0,0.0,REPORTING
+TUN,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+AFG,Convidecia,CanSino - Convidecia,CanSino Biologicals,0,0,0.0,0.0,REPORTING
+CHL,Convidecia,CanSino - Convidecia,CanSino Biologicals,2021-07-04,2021-03-06,0.0,0.0,REPORTING
+BLR,Covi-Vac,Chumakov - Covi-Vac,Chumakov,0,2022-12-01,0.0,0.0,REPORTING
+ARM,Inactivated SARS-CoV-2 vaccine,Wuhan CNBG - Inactivated,Wuhan Institute of Biological Products (CNBG),0,2022-09-03,0.0,0.0,REPORTING
+MKD,Inactivated SARS-CoV-2 vaccine,Wuhan CNBG - Inactivated,Wuhan Institute of Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+CHN,Inactivated SARS-CoV-2 vaccine,Wuhan CNBG - Inactivated,Wuhan Institute of Biological Products (CNBG),0,0,0.0,0.0,REPORTING
+FRA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+FIN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+SWE,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+ESP,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+GUF,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+PRI,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-11-12,0,0.0,0.0,REPORTING
+LBN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+PHL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-12-05,0.0,0.0,REPORTING
+BRB,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+ABW,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+LAO,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-07-05,0,0.0,0.0,REPORTING
+LTU,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+MTQ,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+SYR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-03-02,2021-01-04,0.0,0.0,REPORTING
+SUR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+CIV,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+LIE,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-06-01,0.0,0.0,REPORTING
+GIN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-05-03,0.0,0.0,REPORTING
+DOM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+SXM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+BTN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-08-03,0,0.0,0.0,REPORTING
+ISR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+COL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-05-01,0,0.0,0.0,REPORTING
+MDV,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+JOR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+IRN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+XKX,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-05-05,0.0,0.0,REPORTING
+SLV,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+BES,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+MNG,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-10-01,0,0.0,0.0,REPORTING
+CMR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+LKA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-08-05,2021-07-07,0.0,0.0,REPORTING
+PRY,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-12-07,0.0,0.0,REPORTING
+NLD,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+NIC,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+MNE,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-05-05,0.0,0.0,REPORTING
+BGD,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-08-03,0,0.0,0.0,REPORTING
+WSM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+SRB,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+UZB,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+ASM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-11-12,0,0.0,0.0,REPORTING
+TON,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+SDN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+NZL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-03-02,0,0.0,0.0,REPORTING
+KWT,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+URY,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-12-03,0.0,0.0,REPORTING
+BLZ,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+CZE,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+RWA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-05-03,0.0,0.0,REPORTING
+BHS,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-12-08,0.0,0.0,REPORTING
+CYP,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+ISL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+CHE,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+LCA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+JPN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+PRT,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+SVN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+SAU,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-10-12,2021-06-01,0.0,0.0,REPORTING
+VGB,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+KEN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+HND,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+ATG,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-12-08,0,0.0,0.0,REPORTING
+NPL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+SLB,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+PAK,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-03-02,0.0,0.0,REPORTING
+BMU,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-02-12,2021-11-01,0.0,0.0,REPORTING
+ALB,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+LBY,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-11-04,0.0,0.0,REPORTING
+VCT,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+EST,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+MNP,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-11-12,0,0.0,0.0,REPORTING
+ARG,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+GTM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+TCA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-11-01,0.0,0.0,REPORTING
+COK,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-03-02,0,0.0,0.0,REPORTING
+MLT,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+QAT,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+MKD,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+BRA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-03-05,0.0,0.0,REPORTING
+PYF,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+MCO,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+CHN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-06-03,0.0,0.0,REPORTING
+BEL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+LVA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+GRC,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+BOL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+GUM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-11-12,2021-04-01,0.0,0.0,REPORTING
+AUT,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+CAN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-09-12,0,0.0,0.0,REPORTING
+PER,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-01-02,2021-08-03,0.0,0.0,REPORTING
+TKL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-03-02,0,0.0,0.0,REPORTING
+BGR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+ARE,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+NIU,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-08-06,0.0,0.0,REPORTING
+NAM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-09-07,0,0.0,0.0,REPORTING
+SGP,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+HRV,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+PLW,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-11-12,0,0.0,0.0,REPORTING
+GLP,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-08-01,0.0,0.0,REPORTING
+CYM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-02-12,0,0.0,0.0,REPORTING
+SOM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+AUS,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+IRQ,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-02-03,0.0,0.0,REPORTING
+BHR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-03-11,2020-04-11,0.0,0.0,REPORTING
+GUY,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+BWA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+ITA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+BRN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+TTO,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-12-10,0.0,0.0,REPORTING
+MDA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+SWZ,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+AFG,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+CHL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+DNK,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+AND,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+GBR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+TUN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-11-01,0,0.0,0.0,REPORTING
+UGA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+AIA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-06-09,0.0,0.0,REPORTING
+GAB,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+MAR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-06-01,0,0.0,0.0,REPORTING
+TZA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+ECU,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+KGZ,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-03-11,0.0,0.0,REPORTING
+HUN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+DMA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+IDN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+TJK,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-06-10,0.0,0.0,REPORTING
+KHM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-02-08,0,0.0,0.0,REPORTING
+THA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-06-08,0.0,0.0,REPORTING
+EGY,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+UKR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+MEX,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-11-12,0,0.0,0.0,REPORTING
+JAM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+ROU,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+FSM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-11-12,0,0.0,0.0,REPORTING
+GRD,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+USA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-11-12,0,0.0,0.0,REPORTING
+KOR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-04-03,0,0.0,0.0,REPORTING
+POL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+NCL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+BEN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+ZAF,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+LUX,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+NOR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+KNA,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-01-09,2021-01-09,0.0,0.0,REPORTING
+MHL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2020-11-12,2021-01-10,0.0,0.0,REPORTING
+AZE,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-09-06,0.0,0.0,REPORTING
+SVK,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+OMN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+TLS,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+PSE,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-02-02,0.0,0.0,REPORTING
+DJI,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+MYS,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-08-01,0,0.0,0.0,REPORTING
+SMR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-03-03,0.0,0.0,REPORTING
+PAN,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+CPV,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+KAZ,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,2021-10-11,0.0,0.0,REPORTING
+CUW,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+MSR,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+IRL,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+ARM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+DEU,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+VNM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,2021-12-06,2021-01-07,0.0,0.0,REPORTING
+YEM,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+GEO,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+CRI,Comirnaty,Pfizer BioNTech - Comirnaty,Pfizer BioNTech,0,0,0.0,0.0,REPORTING
+FRA,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+FIN,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+SWE,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+ESP,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+GUF,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+PRI,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+LIE,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+LBN,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+FJI,Spikevax,Moderna - Spikevax,Moderna,2021-01-09,0,0.0,0.0,REPORTING
+PHL,Spikevax,Moderna - Spikevax,Moderna,2021-05-05,2021-01-07,0.0,0.0,REPORTING
+BTN,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+ISR,Spikevax,Moderna - Spikevax,Moderna,0,2021-03-03,0.0,0.0,REPORTING
+COL,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+LTU,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+SYR,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+SUR,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+MDV,Spikevax,Moderna - Spikevax,Moderna,2021-06-06,0,0.0,0.0,REPORTING
+JOR,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+IRN,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+SLV,Spikevax,Moderna - Spikevax,Moderna,2021-03-06,2021-02-08,0.0,0.0,REPORTING
+BES,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+SXM,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+ASM,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+MNG,Spikevax,Moderna - Spikevax,Moderna,2021-10-01,0,0.0,0.0,REPORTING
+LKA,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+PRY,Spikevax,Moderna - Spikevax,Moderna,0,2021-09-06,0.0,0.0,REPORTING
+NLD,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+NIC,Spikevax,Moderna - Spikevax,Moderna,0,2022-07-03,0.0,0.0,REPORTING
+SDN,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+IND,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+KWT,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+BGD,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+SRB,Spikevax,Moderna - Spikevax,Moderna,0,2021-10-11,0.0,0.0,REPORTING
+UZB,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+SAU,Spikevax,Moderna - Spikevax,Moderna,2020-10-12,2021-06-01,0.0,0.0,REPORTING
+CZE,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+RWA,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+CYP,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+ISL,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+CHE,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+NPL,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+PAK,Spikevax,Moderna - Spikevax,Moderna,0,2021-03-02,0.0,0.0,REPORTING
+LCA,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+JPN,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+PRT,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+SVN,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+BMU,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+LBY,Spikevax,Moderna - Spikevax,Moderna,0,2021-11-04,0.0,0.0,REPORTING
+EST,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+MNP,Spikevax,Moderna - Spikevax,Moderna,0,2021-12-01,0.0,0.0,REPORTING
+KEN,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+HND,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+MCO,Spikevax,Moderna - Spikevax,Moderna,0,2022-02-03,0.0,0.0,REPORTING
+BEL,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+ARG,Spikevax,Moderna - Spikevax,Moderna,0,2021-02-08,0.0,0.0,REPORTING
+GTM,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+MLT,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+QAT,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+GRC,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+BOL,Spikevax,Moderna - Spikevax,Moderna,0,2022-10-01,0.0,0.0,REPORTING
+GUM,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+AUT,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+CAN,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+MKD,Spikevax,Moderna - Spikevax,Moderna,0,2022-10-08,0.0,0.0,REPORTING
+GLP,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+SOM,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+PER,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+BGR,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+ARE,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+LVA,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+GUY,Spikevax,Moderna - Spikevax,Moderna,0,2021-03-07,0.0,0.0,REPORTING
+BWA,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+ITA,Spikevax,Moderna - Spikevax,Moderna,0,2021-06-01,0.0,0.0,REPORTING
+SGP,Spikevax,Moderna - Spikevax,Moderna,2021-03-02,0,0.0,0.0,REPORTING
+HRV,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+PLW,Spikevax,Moderna - Spikevax,Moderna,0,2021-03-01,0.0,0.0,REPORTING
+AFG,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+HTI,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+CHL,Spikevax,Moderna - Spikevax,Moderna,2022-02-02,2022-02-02,0.0,0.0,REPORTING
+AUS,Spikevax,Moderna - Spikevax,Moderna,2021-09-08,0,0.0,0.0,REPORTING
+IRQ,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+BHR,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+AND,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+GBR,Spikevax,Moderna - Spikevax,Moderna,0,2021-11-01,0.0,0.0,REPORTING
+TUN,Spikevax,Moderna - Spikevax,Moderna,2021-11-01,0,0.0,0.0,REPORTING
+UGA,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+BRN,Spikevax,Moderna - Spikevax,Moderna,2021-09-04,0,0.0,0.0,REPORTING
+MDA,Spikevax,Moderna - Spikevax,Moderna,0,2021-08-12,0.0,0.0,REPORTING
+COG,Spikevax,Moderna - Spikevax,Moderna,2021-03-03,0,0.0,0.0,REPORTING
+EGY,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+MAR,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+KGZ,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+HUN,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+DNK,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+GRD,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+DMA,Spikevax,Moderna - Spikevax,Moderna,0,2022-10-02,0.0,0.0,REPORTING
+IDN,Spikevax,Moderna - Spikevax,Moderna,2021-01-07,0,0.0,0.0,REPORTING
+TJK,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+KHM,Spikevax,Moderna - Spikevax,Moderna,2021-02-08,0,0.0,0.0,REPORTING
+THA,Spikevax,Moderna - Spikevax,Moderna,0,2021-08-11,0.0,0.0,REPORTING
+KOR,Spikevax,Moderna - Spikevax,Moderna,0,2021-01-06,0.0,0.0,REPORTING
+POL,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+UKR,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+MEX,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+ROU,Spikevax,Moderna - Spikevax,Moderna,0,2021-03-02,0.0,0.0,REPORTING
+FSM,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+MYS,Spikevax,Moderna - Spikevax,Moderna,2021-05-08,0,0.0,0.0,REPORTING
+LUX,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+NOR,Spikevax,Moderna - Spikevax,Moderna,0,2021-06-01,0.0,0.0,REPORTING
+MHL,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+SVK,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+USA,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+CPV,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+CUW,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+IRL,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+OMN,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+PSE,Spikevax,Moderna - Spikevax,Moderna,0,2021-02-02,0.0,0.0,REPORTING
+DJI,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+ARM,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+DEU,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+VNM,Spikevax,Moderna - Spikevax,Moderna,0,2021-01-07,0.0,0.0,REPORTING
+WLF,Spikevax,Moderna - Spikevax,Moderna,2021-06-01,0,0.0,0.0,REPORTING
+YEM,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+CRI,Spikevax,Moderna - Spikevax,Moderna,0,0,0.0,0.0,REPORTING
+TKM,EpiVacCorona,SRCVB - EpiVacCorona,State Research Center of Virology & Biotechnology,0,0,0.0,0.0,REPORTING
+ETH,Covaxin,Bharat - Covaxin,Bharat Biotech,2021-03-03,0,0.0,0.0,REPORTING
+YEM,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+OMN,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+ZWE,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+PSE,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+DJI,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+SYR,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+LBN,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+PHL,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+SDN,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+IND,Covaxin,Bharat - Covaxin,Bharat Biotech,2021-03-01,0,0.0,0.0,REPORTING
+KWT,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+PRY,Covaxin,Bharat - Covaxin,Bharat Biotech,2021-03-01,2021-10-04,0.0,0.0,REPORTING
+JOR,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+IRN,Covaxin,Bharat - Covaxin,Bharat Biotech,0,2021-09-02,0.0,0.0,REPORTING
+LBY,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+CAF,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+NPL,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+PAK,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+PRT,Covaxin,Bharat - Covaxin,Bharat Biotech,0,2021-06-01,0.0,0.0,REPORTING
+SAU,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+IRQ,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+BHR,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+BWA,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+SOM,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+ARE,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+QAT,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+EGY,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+MAR,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+MUS,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+TUN,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+AFG,Covaxin,Bharat - Covaxin,Bharat Biotech,0,0,0.0,0.0,REPORTING
+COM,Covaxin,Bharat - Covaxin,Bharat Biotech,2021-01-02,2021-10-04,0.0,0.0,REPORTING
+ETH,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+FRA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+FIN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+ESP,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+GUF,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+PRI,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+ABW,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+LAO,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+VUT,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+SSD,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+ZMB,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+SYR,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2021-03-02,2021-01-04,0.0,0.0,REPORTING
+CIV,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+LIE,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+LBN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+PHL,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+BRB,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+MDV,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-02,0,0.0,0.0,REPORTING
+JOR,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+IRN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+GIN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-05-03,0.0,0.0,REPORTING
+COL,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+LTU,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+ASM,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+CMR,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+BFA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+NLD,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+NIC,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-08-10,0.0,0.0,REPORTING
+PNG,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+NZL,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-07,0,0.0,0.0,REPORTING
+IND,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2021-05-08,0,0.0,0.0,REPORTING
+KWT,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+BLZ,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-01-09,0.0,0.0,REPORTING
+BGD,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+UZB,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2022-09-11,0.0,0.0,REPORTING
+RWA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2021-11-06,0,0.0,0.0,REPORTING
+BHS,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+CYP,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+ISL,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+CHE,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+SDN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-09-03,0.0,0.0,REPORTING
+LCA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+PRT,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+SVN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+SAU,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2020-10-12,2021-06-01,0.0,0.0,REPORTING
+VGB,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+CZE,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-03-03,0.0,0.0,REPORTING
+MNP,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+KEN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+HND,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+ATG,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-06-09,0.0,0.0,REPORTING
+NPL,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+PAK,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+MCO,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+BEL,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+MLT,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+QAT,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+LBY,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-11-04,0.0,0.0,REPORTING
+EST,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+GUM,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+MWI,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+AUT,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+CAN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+BRA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+PYF,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-03-05,0.0,0.0,REPORTING
+BGR,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-12-05,0.0,0.0,REPORTING
+ARE,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+NAM,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2021-02-08,0,0.0,0.0,REPORTING
+LVA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-06-01,0.0,0.0,REPORTING
+GRC,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-06-01,0.0,0.0,REPORTING
+BOL,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-07-10,0.0,0.0,REPORTING
+ITA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-06-01,0.0,0.0,REPORTING
+HRV,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+SEN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+PLW,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+GLP,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+SOM,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+HTI,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+AUS,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+IRQ,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+BHR,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2020-03-11,2020-04-11,0.0,0.0,REPORTING
+GUY,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+BWA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+UGA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+BRN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+TTO,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+MDA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+SWZ,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+AFG,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+MAR,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2021-06-01,0,0.0,0.0,REPORTING
+TZA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+HUN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-05-05,0.0,0.0,REPORTING
+DNK,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-06-01,0.0,0.0,REPORTING
+MOZ,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+TUN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2021-11-01,0,0.0,0.0,REPORTING
+FSM,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-09-04,0.0,0.0,REPORTING
+GRD,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-12-11,0.0,0.0,REPORTING
+IDN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-09,0,0.0,0.0,REPORTING
+KHM,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-01-08,0.0,0.0,REPORTING
+THA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+EGY,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+BEN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+ZAF,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+UKR,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+MEX,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+JAM,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+ROU,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-05-05,0.0,0.0,REPORTING
+MHL,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-08-04,0.0,0.0,REPORTING
+SVK,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-03-03,0.0,0.0,REPORTING
+USA,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-01-03,0.0,0.0,REPORTING
+KOR,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-04,2021-10-06,0.0,0.0,REPORTING
+POL,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-06-01,0.0,0.0,REPORTING
+NCL,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+OMN,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+PSE,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-02-02,0.0,0.0,REPORTING
+DJI,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+MYS,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+LUX,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-07-04,0.0,0.0,REPORTING
+NOR,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-03-03,0.0,0.0,REPORTING
+ARM,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,2021-05-05,0.0,0.0,REPORTING
+DEU,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+MDG,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+YEM,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+LSO,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,2021-07-07,0,0.0,0.0,REPORTING
+IRL,Ad26.COV 2-S,Janssen - Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,0.0,0.0,REPORTING
+ARM,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+YEM,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+GEO,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+KAZ,Coronavac,Sinovac - CoronaVac,Sinovac,0,2021-05-05,0.0,0.0,REPORTING
+OMN,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+TLS,Coronavac,Sinovac - CoronaVac,Sinovac,2021-06-01,0,0.0,0.0,REPORTING
+LBN,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+PHL,Coronavac,Sinovac - CoronaVac,Sinovac,0,2021-01-03,0.0,0.0,REPORTING
+LAO,Coronavac,Sinovac - CoronaVac,Sinovac,0,2021-05-10,0.0,0.0,REPORTING
+SLV,Coronavac,Sinovac - CoronaVac,Sinovac,2021-09-03,0,0.0,0.0,REPORTING
+GIN,Coronavac,Sinovac - CoronaVac,Sinovac,2021-01-04,2021-05-03,0.0,0.0,REPORTING
+DOM,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+COL,Coronavac,Sinovac - CoronaVac,Sinovac,2021-04-02,0,0.0,0.0,REPORTING
+SYR,Coronavac,Sinovac - CoronaVac,Sinovac,2021-03-02,2021-01-04,0.0,0.0,REPORTING
+VEN,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+BGD,Coronavac,Sinovac - CoronaVac,Sinovac,2021-06-06,2021-11-12,0.0,0.0,REPORTING
+UZB,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+PRY,Coronavac,Sinovac - CoronaVac,Sinovac,2021-06-02,2021-10-03,0.0,0.0,REPORTING
+MDV,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+JOR,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+IRN,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+SAU,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+DZA,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+RWA,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+SDN,Coronavac,Sinovac - CoronaVac,Sinovac,0,2021-09-03,0.0,0.0,REPORTING
+KWT,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+URY,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+CHN,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+QAT,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+ALB,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+LBY,Coronavac,Sinovac - CoronaVac,Sinovac,0,2021-11-04,0.0,0.0,REPORTING
+PAK,Coronavac,Sinovac - CoronaVac,Sinovac,0,2021-03-02,0.0,0.0,REPORTING
+PRT,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+GNQ,Coronavac,Sinovac - CoronaVac,Sinovac,0,2021-12-02,0.0,0.0,REPORTING
+BWA,Coronavac,Sinovac - CoronaVac,Sinovac,2021-08-04,0,0.0,0.0,REPORTING
+SOM,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+ARE,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+MKD,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+BRA,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+UGA,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+MDA,Coronavac,Sinovac - CoronaVac,Sinovac,0,2021-12-05,0.0,0.0,REPORTING
+AFG,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+CHL,Coronavac,Sinovac - CoronaVac,Sinovac,0,2021-03-02,0.0,0.0,REPORTING
+IRQ,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+BHR,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+THA,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+EGY,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+MAR,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+ECU,Coronavac,Sinovac - CoronaVac,Sinovac,2021-06-03,2021-08-03,0.0,0.0,REPORTING
+HUN,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+TUN,Coronavac,Sinovac - CoronaVac,Sinovac,2021-11-01,0,0.0,0.0,REPORTING
+UKR,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+MEX,Coronavac,Sinovac - CoronaVac,Sinovac,2021-09-02,0,0.0,0.0,REPORTING
+JAM,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+IDN,Coronavac,Sinovac - CoronaVac,Sinovac,2021-11-01,0,0.0,0.0,REPORTING
+TJK,Coronavac,Sinovac - CoronaVac,Sinovac,0,2021-09-06,0.0,0.0,REPORTING
+KHM,Coronavac,Sinovac - CoronaVac,Sinovac,2021-12-02,2021-01-04,0.0,0.0,REPORTING
+ZWE,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+PSE,Coronavac,Sinovac - CoronaVac,Sinovac,0,2021-02-02,0.0,0.0,REPORTING
+DJI,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+MYS,Coronavac,Sinovac - CoronaVac,Sinovac,2021-02-03,0,0.0,0.0,REPORTING
+AZE,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+BEN,Coronavac,Sinovac - CoronaVac,Sinovac,0,0,0.0,0.0,REPORTING
+FRA,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+SWE,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2022-09-03,0.0,0.0,REPORTING
+PRI,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+DEU,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+IRL,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2021-03-02,0.0,0.0,REPORTING
+LUX,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2022-02-03,0.0,0.0,REPORTING
+NLD,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+PHL,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+SVN,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2022-02-03,0.0,0.0,REPORTING
+CZE,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2022-02-03,0.0,0.0,REPORTING
+CYP,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2022-09-03,0.0,0.0,REPORTING
+ISL,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2022-03-08,0.0,0.0,REPORTING
+CHE,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+NZL,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+CAN,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+MCO,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+BEL,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2022-02-03,0.0,0.0,REPORTING
+EST,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2022-09-03,0.0,0.0,REPORTING
+JPN,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+PRT,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+ITA,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2022-02-02,0.0,0.0,REPORTING
+HRV,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2022-02-03,0.0,0.0,REPORTING
+GLP,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+LVA,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2022-02-03,0.0,0.0,REPORTING
+GRC,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+AUT,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+SVK,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2022-09-03,0.0,0.0,REPORTING
+USA,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+KOR,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+POL,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,2021-09-06,0.0,0.0,REPORTING
+IDN,NUVAXOVID,Novavax-NUVAXOVID,Novavax,2021-01-11,2021-06-12,0.0,0.0,REPORTING
+AUS,NUVAXOVID,Novavax-NUVAXOVID,Novavax,0,0,0.0,0.0,REPORTING
+ETH,Covishield,SII - Covishield,Serum Institute of India,2021-03-03,0,0.0,0.0,REPORTING
+TGO,Covishield,SII - Covishield,Serum Institute of India,0,2021-10-03,0.0,0.0,REPORTING
+STP,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+AGO,Covishield,SII - Covishield,Serum Institute of India,0,2021-10-03,0.0,0.0,REPORTING
+ARM,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+MDG,Covishield,SII - Covishield,Serum Institute of India,0,2021-10-05,0.0,0.0,REPORTING
+SSD,Covishield,SII - Covishield,Serum Institute of India,2021-01-03,2021-06-04,0.0,0.0,REPORTING
+ZMB,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+SYR,Covishield,SII - Covishield,Serum Institute of India,2021-03-02,2021-01-04,0.0,0.0,REPORTING
+SUR,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+CIV,Covishield,SII - Covishield,Serum Institute of India,0,2021-01-03,0.0,0.0,REPORTING
+FJI,Covishield,SII - Covishield,Serum Institute of India,0,2021-06-04,0.0,0.0,REPORTING
+BRB,Covishield,SII - Covishield,Serum Institute of India,0,2021-08-01,0.0,0.0,REPORTING
+LAO,Covishield,SII - Covishield,Serum Institute of India,0,2021-02-04,0.0,0.0,REPORTING
+GIN,Covishield,SII - Covishield,Serum Institute of India,0,2021-05-03,0.0,0.0,REPORTING
+DOM,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+MLI,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+BTN,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+GMB,Covishield,SII - Covishield,Serum Institute of India,2021-12-02,2021-10-03,0.0,0.0,REPORTING
+GHA,Covishield,SII - Covishield,Serum Institute of India,2021-12-02,2021-02-03,0.0,0.0,REPORTING
+LKA,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+BFA,Covishield,SII - Covishield,Serum Institute of India,0,2021-02-06,0.0,0.0,REPORTING
+NIC,Covishield,SII - Covishield,Serum Institute of India,0,2021-06-04,0.0,0.0,REPORTING
+PNG,Covishield,SII - Covishield,Serum Institute of India,2021-02-03,2021-05-05,0.0,0.0,REPORTING
+MDV,Covishield,SII - Covishield,Serum Institute of India,0,2021-01-02,0.0,0.0,REPORTING
+SLV,Covishield,SII - Covishield,Serum Institute of India,0,2021-12-04,0.0,0.0,REPORTING
+BLZ,Covishield,SII - Covishield,Serum Institute of India,0,2021-01-03,0.0,0.0,REPORTING
+BGD,Covishield,SII - Covishield,Serum Institute of India,2021-07-01,0,0.0,0.0,REPORTING
+UZB,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+MNG,Covishield,SII - Covishield,Serum Institute of India,2021-10-01,0,0.0,0.0,REPORTING
+NER,Covishield,SII - Covishield,Serum Institute of India,2021-04-03,0,0.0,0.0,REPORTING
+CMR,Covishield,SII - Covishield,Serum Institute of India,2021-04-03,2021-12-04,0.0,0.0,REPORTING
+LCA,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+DZA,Covishield,SII - Covishield,Serum Institute of India,2021-01-02,0,0.0,0.0,REPORTING
+RWA,Covishield,SII - Covishield,Serum Institute of India,0,2021-05-03,0.0,0.0,REPORTING
+BHS,Covishield,SII - Covishield,Serum Institute of India,2021-05-03,0,0.0,0.0,REPORTING
+SDN,Covishield,SII - Covishield,Serum Institute of India,0,2021-09-03,0.0,0.0,REPORTING
+IND,Covishield,SII - Covishield,Serum Institute of India,2021-03-01,0,0.0,0.0,REPORTING
+HND,Covishield,SII - Covishield,Serum Institute of India,2021-04-03,0,0.0,0.0,REPORTING
+ATG,Covishield,SII - Covishield,Serum Institute of India,2021-05-04,2021-12-07,0.0,0.0,REPORTING
+GNB,Covishield,SII - Covishield,Serum Institute of India,0,2021-02-04,0.0,0.0,REPORTING
+NPL,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+SLB,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+PAK,Covishield,SII - Covishield,Serum Institute of India,0,2021-03-02,0.0,0.0,REPORTING
+SYC,Covishield,SII - Covishield,Serum Institute of India,0,2021-10-01,0.0,0.0,REPORTING
+GTM,Covishield,SII - Covishield,Serum Institute of India,0,2021-03-03,0.0,0.0,REPORTING
+ALB,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+VCT,Covishield,SII - Covishield,Serum Institute of India,2021-11-02,0,0.0,0.0,REPORTING
+CAF,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+KEN,Covishield,SII - Covishield,Serum Institute of India,0,2021-05-03,0.0,0.0,REPORTING
+BOL,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+MWI,Covishield,SII - Covishield,Serum Institute of India,0,2021-11-03,0.0,0.0,REPORTING
+CAN,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+LBR,Covishield,SII - Covishield,Serum Institute of India,0,2021-01-04,0.0,0.0,REPORTING
+BRA,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+ARG,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+SEN,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+COD,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+NRU,Covishield,SII - Covishield,Serum Institute of India,2021-02-03,2021-01-06,0.0,0.0,REPORTING
+SOM,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+ARE,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+NAM,Covishield,SII - Covishield,Serum Institute of India,2021-05-03,0,0.0,0.0,REPORTING
+SWZ,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+AFG,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+COM,Covishield,SII - Covishield,Serum Institute of India,0,2021-10-04,0.0,0.0,REPORTING
+BHR,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+GUY,Covishield,SII - Covishield,Serum Institute of India,0,2021-11-02,0.0,0.0,REPORTING
+BWA,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+COG,Covishield,SII - Covishield,Serum Institute of India,2021-03-03,0,0.0,0.0,REPORTING
+SLE,Covishield,SII - Covishield,Serum Institute of India,2021-04-03,0,0.0,0.0,REPORTING
+MUS,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+MOZ,Covishield,SII - Covishield,Serum Institute of India,2021-04-03,2021-08-03,0.0,0.0,REPORTING
+UGA,Covishield,SII - Covishield,Serum Institute of India,0,2021-10-03,0.0,0.0,REPORTING
+TTO,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+JAM,Covishield,SII - Covishield,Serum Institute of India,0,2021-10-03,0.0,0.0,REPORTING
+GRD,Covishield,SII - Covishield,Serum Institute of India,2021-12-02,0,0.0,0.0,REPORTING
+DMA,Covishield,SII - Covishield,Serum Institute of India,2021-09-02,2021-12-02,0.0,0.0,REPORTING
+TJK,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+KHM,Covishield,SII - Covishield,Serum Institute of India,2021-12-02,2021-04-03,0.0,0.0,REPORTING
+THA,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+TLS,Covishield,SII - Covishield,Serum Institute of India,0,2021-07-04,0.0,0.0,REPORTING
+DJI,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+KNA,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+BEN,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+MRT,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+UKR,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+NGA,Covishield,SII - Covishield,Serum Institute of India,2021-04-03,2021-05-03,0.0,0.0,REPORTING
+YEM,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+CPV,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+LSO,Covishield,SII - Covishield,Serum Institute of India,0,2021-10-03,0.0,0.0,REPORTING
+MMR,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+OMN,Covishield,SII - Covishield,Serum Institute of India,0,0,0.0,0.0,REPORTING
+CUB,Soberana Plus,Finlay - Soberana Plus,Instituto Finlay de Vacunas,0,0,0.0,0.0,REPORTING
+NIC,Soberana Plus,Finlay - Soberana Plus,Instituto Finlay de Vacunas,0,0,0.0,0.0,REPORTING
+ARM,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,2022-09-02,0.0,0.0,REPORTING
+YEM,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+OMN,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+PSE,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,2021-02-02,0.0,0.0,REPORTING
+DJI,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+AZE,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,2022-02-03,0.0,0.0,REPORTING
+LAO,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,2021-01-10,0,0.0,0.0,REPORTING
+JOR,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+IRN,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+SYR,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,2021-03-02,2021-01-04,0.0,0.0,REPORTING
+VEN,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+LBN,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+PHL,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+PAK,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+SAU,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+SDN,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+KWT,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+UZB,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+NIC,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+SOM,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+ARE,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+BLR,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,2021-06-10,0.0,0.0,REPORTING
+QAT,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+LBY,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+VCT,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+EGY,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+MAR,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+TUN,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,2021-11-01,0,0.0,0.0,REPORTING
+AFG,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+IRQ,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,0,0,0.0,0.0,REPORTING
+BHR,Sputnik-Light,Gamaleya - Sputnik-Light,Gamaleya Research Institute,2020-03-11,2020-04-11,0.0,0.0,REPORTING
+SYC,Hayat-Vax,Julphar - Hayat-Vax,0,0,0,0.0,0.0,REPORTING
+PRY,Hayat-Vax,Julphar - Hayat-Vax,0,0,0,0.0,0.0,REPORTING
+PHL,Hayat-Vax,Julphar - Hayat-Vax,0,2021-11-08,0,0.0,0.0,REPORTING
+IRN,COVIran Barakat,Shifa - COVIran Barakat,0,0,0,0.0,0.0,REPORTING
+MCO,Covavax,Novavax - Covavax,0,0,0,0.0,0.0,REPORTING
+THA,Covovax,SII - Covovax,0,0,0,0.0,0.0,REPORTING
+IND,Covovax,SII - Covovax,0,0,0,0.0,0.0,REPORTING
+FRA,Spikevax Bivalent Original/Omicron BA.1,Moderna – Spikevax Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+LUX,Spikevax Bivalent Original/Omicron BA.1,Moderna – Spikevax Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+ITA,Spikevax Bivalent Original/Omicron BA.1,Moderna – Spikevax Bivalent Original/Omicron BA.1,0,0,2022-09-02,0.0,0.0,REPORTING
+LVA,Spikevax Bivalent Original/Omicron BA.1,Moderna – Spikevax Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+AUT,Spikevax Bivalent Original/Omicron BA.1,Moderna – Spikevax Bivalent Original/Omicron BA.1,0,0,2021-10-02,0.0,0.0,REPORTING
+EST,Spikevax Bivalent Original/Omicron BA.1,Moderna – Spikevax Bivalent Original/Omicron BA.1,0,0,2022-12-10,0.0,0.0,REPORTING
+PRT,Spikevax Bivalent Original/Omicron BA.1,Moderna – Spikevax Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+CZE,Spikevax Bivalent Original/Omicron BA.1,Moderna – Spikevax Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+CHE,Spikevax Bivalent Original/Omicron BA.1,Moderna – Spikevax Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+FRA,Spikevax Bivalent Original/Omicron BA.4/BA.5,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,0,0,2023-01-02,0.0,0.0,REPORTING
+ITA,Spikevax Bivalent Original/Omicron BA.4/BA.5,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,0,0,0,0.0,0.0,REPORTING
+EST,Spikevax Bivalent Original/Omicron BA.4/BA.5,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,0,0,0,0.0,0.0,REPORTING
+PRT,Spikevax Bivalent Original/Omicron BA.4/BA.5,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,0,0,2021-04-08,0.0,0.0,REPORTING
+CZE,Spikevax Bivalent Original/Omicron BA.4/BA.5,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,0,0,0,0.0,0.0,REPORTING
+LUX,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,0,0,2022-07-09,0.0,0.0,REPORTING
+HUN,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,0,0,2022-07-09,0.0,0.0,REPORTING
+ITA,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,0,0,2022-05-01,0.0,0.0,REPORTING
+LVA,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+GRC,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+AUT,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+EST,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+PRT,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+CZE,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+CHE,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,0,0,0,0.0,0.0,REPORTING
+NLD,Comirnaty Bivalent Original/Omicron BA.1,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,0,0,2022-09-11,0.0,0.0,REPORTING
+FRA,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,2022-05-10,0.0,0.0,REPORTING
+LUX,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,2022-12-10,0.0,0.0,REPORTING
+AND,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,0,0.0,0.0,REPORTING
+ITA,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,0,0.0,0.0,REPORTING
+LVA,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,2022-05-10,0.0,0.0,REPORTING
+GRC,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,2022-05-10,0.0,0.0,REPORTING
+AUT,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,0,0.0,0.0,REPORTING
+ALB,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,0,0.0,0.0,REPORTING
+EST,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,0,0.0,0.0,REPORTING
+PRT,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,2021-06-01,0.0,0.0,REPORTING
+CZE,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,2022-05-10,0.0,0.0,REPORTING
+NLD,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,0,0.0,0.0,REPORTING
+DEU,0,Moderna – Spikevax Bivalent Original/Omicron  - Generic,0,0,0,0.0,0.0,REPORTING
+TJK,0,Moderna – Spikevax Bivalent Original/Omicron  - Generic,0,0,0,0.0,0.0,REPORTING
+SVN,0,Moderna – Spikevax Bivalent Original/Omicron  - Generic,0,0,0,0.0,0.0,REPORTING
+DEU,0,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,0,0,2022-07-09,0.0,0.0,REPORTING
+TJK,0,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,0,0,0,0.0,0.0,REPORTING
+SVN,0,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,0,0,0,0.0,0.0,REPORTING
