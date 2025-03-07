@@ -30,8 +30,3 @@ This project, **Data Analytics of COVID-19's Global Impact**, explores the socia
 - **Visualization:** Tableau, Matplotlib, Seaborn
 - **Orchestration:** Dagster for workflow automation
 
-### Run ETL Pipeline (Dagster)
-```bash
-dagster pipeline execute -p dagster_pipeline.py
-```
-
